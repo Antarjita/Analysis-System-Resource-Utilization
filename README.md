@@ -1,4 +1,4 @@
-# Log-Analysis
+# Analysis-System-Resource-Utilization
 Analysis of System CPU and memory utilizations.
 
 System Requirements:-
